@@ -14,9 +14,9 @@ My name is Ramsey and I'm a software engineer. I love to solve problems and buil
 [2]: https://www.linkedin.com/in/ramsey-njire-51984931/
 
 
-[![Ramsey's github stats](https://github-readme-stats.ramseynjire.vercel.app/api?username=ramseynjire&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Ramsey's github stats](https://github-personal-readme-stats.vercel.app/api?username=ramseynjire&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.ramseynjire.vercel.app/api/top-langs/?username=ramseynjire&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-personal-readme-stats.vercel.app/api/top-langs/?username=ramseynjire&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **RamseyNjire/RamseyNjire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
