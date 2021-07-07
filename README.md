@@ -5,7 +5,7 @@ My name is Ramsey and I'm a software engineer. I love to solve problems and buil
 
 <!-- Icons -->
 
-[1.2]: hhttps://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 <!-- Links to social media accounts -->
 [1]: https://www.linkedin.com/in/ramsey-njire-51984931/
